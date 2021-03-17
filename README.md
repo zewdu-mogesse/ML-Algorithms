@@ -9,3 +9,7 @@ Supervised learning
 
 Unsupervised learning
 
+Semisupervised learning
+
+Reinforcement learning 
+
