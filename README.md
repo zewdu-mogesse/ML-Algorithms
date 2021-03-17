@@ -1,6 +1,6 @@
 # ML-Algorithms
 
-***Types of ML algorithms *** 
+*Types of ML algorithms 
 
 Supervised learning
 
